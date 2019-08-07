@@ -22,6 +22,6 @@
 #### Year: 2015
 #### Background:
 - Mechanical design internship which involved designing the physical encasing and shell of the XEagle drone.
-![XEagle](images/Xeagle.jpg)
+![XEagle](images/xeagle.jpg)
 #### Links:
 - [XEagle](http://www.flypro.com/en-xeagle_professional.htm)
