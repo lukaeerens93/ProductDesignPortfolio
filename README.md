@@ -1,4 +1,4 @@
-# ProductDesignPortfolio
+# Product Design Portfolio
 
 - I have 4 years of product design experience primarily using SolidWorks and Autodesk Fusion 360
 
